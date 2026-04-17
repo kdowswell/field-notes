@@ -43,4 +43,4 @@ Companion to my [blog](https://kurtdowswell.com) and [YouTube](https://youtube.c
 
 ---
 
-*Author of [Programming with GitHub Copilot](https://www.wiley.com/en-us/Programming+with+GitHub+Copilot%3A+Write+Better+Code+Faster+with+AI-p-9781394296040)*
+*Author of [Programming with GitHub Copilot](https://www.amazon.com/Programming-GitHub-Copilot-Better-Code-Faster/dp/1394263376)*
